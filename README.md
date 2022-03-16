@@ -1,4 +1,4 @@
-# ** School_District_Analysis **
+#  School_District_Analysis 
 
 A Written Report for the School District Analysis 
 Write a report that summarizes your updated analysis and compares it with the results from the module.
@@ -22,6 +22,6 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
   ###### Scores by school size
   ###### Scores by school type
 
-## ** Summary **: 
+##  Summary : 
 ###### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
