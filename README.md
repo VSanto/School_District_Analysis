@@ -41,7 +41,7 @@ Thomas High Charter School was ranked #2.  After adjusting the data Thomas High 
 
   ###### 1. Math and reading scores by grade  
   
-  There is not a real change with the other schools data.  There is a slight increase in the average but not much to make an impact on the school data.  The biggest change is noticed with data from Thomas High Charter School.  Overall percentages went from a high passing rate to failing.  Thomas high has 461 9th grade students taken out of the equation.  Thomas High went from a passing status to failing status.
+  There is not a real change with the other schools data.  There is a slight increase in the average but not much to make an impact on the school data.  The biggest change is noticed with data from Thomas High Charter School.  Overall percentages went from a high passing rate to failing.  Thomas high has 461 9th grade students taken out of the equation.  
   
 
   ###### 2. Scores by school spending
@@ -59,12 +59,16 @@ Thomas High Charter School was ranked #2.  After adjusting the data Thomas High 
   ![School_Size_Summary](https://user-images.githubusercontent.com/92495807/159074157-5c064536-f6e4-41a4-b3d3-ea6213eb3bfc.PNG)
 
   ###### 4.Scores by school type
-  No changes in data with regards to school type.
+There is a slight increase in the Charter School Overall ranking.
   
   ![data-4-13-1-school_type_df](https://user-images.githubusercontent.com/92495807/159094107-1fa0c207-56bc-417a-8812-befc9dbd442f.png)
   
   ![School_Type_Summary](https://user-images.githubusercontent.com/92495807/159075116-605fa7a8-12f5-4134-9742-cb1796182336.PNG)
 
 ##  Summary : 
-The analysis has proven that cleaning up the data changed Thomas High Charter School Ranking from passing to failing. 
+In conclusion, the data shows there is an impact to the district data.                                    
+Thomas High Charter School overall district ranking went from 2nd spot to the 8th spot.  
+The data shows a decline in the scores for Thomas High Charter School when the scores for the 9th graders were removed from the equation.
+There is an impact to the spending ranges per student.  Spending ranges $586-$630 and spending ranges $631-$645 shows a slight increase to per student spending.       
+There is a slight increase to the overall passing percentage in the Charter School type.
 
